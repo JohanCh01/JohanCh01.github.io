@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.johanch01.alertaxsense",
+    "sha256_cert_fingerprints": ["F3:D9:75:57:06:47:D6:F7:CC:5C:AA:85:9C:E7:F3:DB:86:85:51:02:0B:EA:C4:C9:37:05:04:E8:B3:C0:DB:D5"]
+  }
+}]
